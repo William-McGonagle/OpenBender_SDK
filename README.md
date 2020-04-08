@@ -19,6 +19,19 @@ none
   - Light
     - Set brightness
   
+- Phone Info
+  - Vibration
+  - Battery
+  - Files
+  - Volume
+  - Camera
+  - Accelerometer
+  - Gyro Rotation
+
+- ARCore Support
+  - _Note: This is to eliminate the cost of using services like Vuforia or other AR tools, and it will help stop the networking problems that the competition has_
+  - (Just expose functions provided by ARCore)
+
 - Console (synced with client and server)
   - Log Data
   - Save Data into File
@@ -49,3 +62,14 @@ none
   - Local Android file system access
     - Read Files
     - Write Files
+
+- Controllers
+  - Buttons
+  - Analog Values
+  - Lights
+  - Vibration
+  - Current Player Lights 
+  - Audio
+  - Battery
+  - Gyro
+  - Accelerometer
