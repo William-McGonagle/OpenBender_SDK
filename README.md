@@ -6,7 +6,7 @@ none
 
 ## Future Features
 - Devices
-  - *Pretty much the same as the (current FTC device support)[https://ftctechnh.github.io/ftc_app/doc/javadoc/index.html] but with some extra features*
+  - *Pretty much the same as the [current FTC device support](https://ftctechnh.github.io/ftc_app/doc/javadoc/index.html) but with some extra features*
   - __UNLIKE NORMAL APP, VOLTAGE CHANGES DO NOT CHANGE THE AMOUNT OF CURRENT SUPPLIED TO THE DEVICES__
   - Motors
     - Encoder Support
